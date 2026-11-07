@@ -1,0 +1,25 @@
+{
+  "sections": ["一、", "二、", "三、", "四、", "五、", "六、", "七、", "研究进度安排"],
+  "must_contain": [
+    "描述性汇总",
+    "不作率的合并",
+    "系统-器官",
+    "纳入与排除标准",
+    "综上",
+    "因此，本研究拟"
+  ],
+  "must_not_contain": [
+    "发生率为",
+    "首次对",
+    "无人做过",
+    "填补空白",
+    "真正的研究空白",
+    "属于真正的研究空白"
+  ],
+  "body_tables": 6,
+  "refs_start": "参考文献",
+  "refs": { "enabled": true, "min": 30 },
+  "superscript_refs": true,
+  "min_tables": 0,
+  "three_line": true
+}
